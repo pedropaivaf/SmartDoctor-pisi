@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(npm exec:*)",
+      "Bash(npm run build:*)",
+      "Bash(find:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npm audit:*)",
+      "Bash(copy:*)",
+      "Bash(claude mcp add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
